@@ -1,5 +1,5 @@
 ![N|Solid](https://drive.google.com/uc?export=view&id=1aFT5F0ePb-mk9C2rwBBPhBqYQcLNdGaJ)
-![Profile View](https://komarev.com/ghpvc/?username=santhosh-umapathi&color=62D9FA)
+![Profile View](https://komarev.com/ghpvc/?username=Santhosh-Umapathi-appymango&color=62D9FA)
 
 # Santhosh Umapathi
 
@@ -20,7 +20,7 @@ I am a _Full-Stack Developer_ with 8+ years of experience in the extensive devel
 
 ## Skills
 
-![Santhosh Umapathi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-umapathi&layout=compact&theme=react)
+![Santhosh Umapathi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-Umapathi-appymango&layout=compact&theme=react)
 
 ##### Front-End
 
@@ -78,7 +78,7 @@ I am a _Full-Stack Developer_ with 8+ years of experience in the extensive devel
 
   <a href="https://miro.com/" target="_blank"><img align="left" alt="Miro" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/89cab517453d609c5fa946257fc667e4a467da09/miro-seeklogo.com.svg"></a>
 
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img align="left" alt="Photoshop" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi/49e098a6e2762777866a20b26bbcbb529999c063/photoshop.svg"></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img align="left" alt="Photoshop" height ="42px" src="https://raw.githubusercontent.com/Santhosh-Umapathi/Santhosh-Umapathi-appymango/49e098a6e2762777866a20b26bbcbb529999c063/photoshop.svg"></a>
   
   <br/>
   <br/>
@@ -88,13 +88,13 @@ I am a _Full-Stack Developer_ with 8+ years of experience in the extensive devel
 
 ### Profile Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhosh-umapathi&show_icons=true&theme=react)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santhosh-Umapathi-appymango&show_icons=true&theme=react)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=santhosh-umapathi&theme=react&hide_border=true)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Santhosh-Umapathi-appymango&theme=react&hide_border=true)
 
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=santhosh-umapathi&custom_title=Santhosh%20Umapathi's%20Activity%20Graph&theme=react-dark)
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Santhosh-Umapathi-appymango&custom_title=Santhosh%20Umapathi's%20Activity%20Graph&theme=react-dark)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=santhosh-umapathi&no-frame=true&theme=darkhub)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Santhosh-Umapathi-appymango&no-frame=true&theme=darkhub)
 
 ##### - Santhosh Umapathi
 
